@@ -32,9 +32,8 @@ To be included in the Oceania Web Atlas:
 ```
 
 **Important:**
-- Keep descriptions concise (1-2 sentences)
 - Use your actual name or online handle
-- Include full location (city/region optional, country required)
+- Include location (city/region optional, country required)
 - Pronouns are optional but encouraged
 - Alphabetize by first name
 
@@ -47,7 +46,6 @@ Include:
 - Homepage URL
 - Location in Oceania
 - Pronouns (optional)
-- Brief description (1-2 sentences)
 
 ## Guidelines For Contributors
 
@@ -55,7 +53,6 @@ Include:
 - **One Entry Per Person:** Only one site per person
 - **Active Sites Only:** Your site should be actively maintained
 - **Personal Sites Only:** No corporate sites, agencies, or promotional pages
-- **Description Quality:** Write in third person, be specific about what makes your site interesting
 
 ## Review Process
 
@@ -73,12 +70,4 @@ To remove your entry:
 
 ## Credits
 
-Thanks to everyone who has contributed suggestions and corrections. Special thanks to: fLaMEd, Derek Sivers, John Lampard, Kris Howard, Michael Lai, Kai Brach, and Elly.
-
-## License
-
-The directory structure and format are available for reuse under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Individual site content belongs to respective site owners.
-
----
-
-**Maintained by:** [Zachary Kai](https://zacharykai.net) | **Contact:** hi@zacharykai.net
+Thanks to everyone who has contributed suggestions and corrections: fLaMEd, Derek Sivers, John Lampard, Kris Howard, Michael Lai, Kai Brach, and Elly.
